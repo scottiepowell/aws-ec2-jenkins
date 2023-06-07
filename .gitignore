@@ -9,6 +9,6 @@ terraform.tfvars
 .terraform
 *.temp
 *.pem
-.terraform*
 aws/
 tfvars
+.gitignore
